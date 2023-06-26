@@ -1,0 +1,48 @@
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\bin\Debug\Win_Banco01.exe.config
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\bin\Debug\Win_Banco01.exe
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\bin\Debug\Win_Banco01.pdb
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\bin\Debug\MySql.Data.dll
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\bin\Debug\Google.Protobuf.dll
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\bin\Debug\ZstdNet.dll
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\bin\Debug\BouncyCastle.Crypto.dll
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\bin\Debug\Ubiety.Dns.Core.dll
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\bin\Debug\System.Memory.dll
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\bin\Debug\System.Buffers.dll
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\bin\Debug\K4os.Compression.LZ4.dll
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\bin\Debug\K4os.Hash.xxHash.dll
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\bin\Debug\System.Numerics.Vectors.dll
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\bin\Debug\MySql.Data.xml
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\obj\Debug\Win_Banco01.csproj.AssemblyReference.cache
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\obj\Debug\Win_Banco01.exe.config
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\obj\Debug\Win_Banco01.FrmBanco1.resources
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\obj\Debug\Win_Banco01.Properties.Resources.resources
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\obj\Debug\Win_Banco01.csproj.GenerateResource.cache
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\obj\Debug\Win_Banco01.csproj.CoreCompileInputs.cache
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\obj\Debug\Win_Banco01.csproj.CopyComplete
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\obj\Debug\Win_Banco01.exe
+D:\2EDSS\2º SEMESTRE\BANCO DE DADOS\Win_Banco01\Win_Banco01\obj\Debug\Win_Banco01.pdb
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\bin\Debug\Win_Banco01.exe.config
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\bin\Debug\Win_Banco01.exe
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\bin\Debug\Win_Banco01.pdb
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\bin\Debug\MySql.Data.dll
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\bin\Debug\Google.Protobuf.dll
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\bin\Debug\ZstdNet.dll
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\bin\Debug\System.Memory.dll
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\bin\Debug\System.Buffers.dll
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\bin\Debug\MySql.Data.xml
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\obj\Debug\Win_Banco01.csproj.AssemblyReference.cache
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\obj\Debug\Win_Banco01.exe.config
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\obj\Debug\Win_Banco01.FrmBanco1.resources
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\obj\Debug\Win_Banco01.Properties.Resources.resources
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\obj\Debug\Win_Banco01.csproj.GenerateResource.cache
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\obj\Debug\Win_Banco01.csproj.CoreCompileInputs.cache
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\obj\Debug\Win_Banco01.csproj.CopyComplete
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\obj\Debug\Win_Banco01.exe
+C:\Users\alunoinfo\Downloads\2EDDS\Win_Banco01\Win_Banco01\obj\Debug\Win_Banco01.pdb
